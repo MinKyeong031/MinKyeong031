@@ -28,4 +28,4 @@
 <br>
 
 ![MinKyeong031's github stats](https://github-readme-stats.vercel.app/api?username=MinKyeong031&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinKyeong031&hide=Jupyter%20Notebook&hide_border=true)](https://github.com/MinKyeong031/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinKyeong031&layout=compact&langs_count=81)

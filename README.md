@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=F9F0E6&height=180&section=header&text=Welcome!&fontColor=4E5180&20render&fontSize=60&animation=fadeIn&fontAlignY=38)
 
 <br>
-
+  <br> <br>
+  Contact
+  <br> <br>
 <p align="center">
   <a href="mailto:mingyg.kim@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mingyg.kim@gmail.com"/></a>
   <a href="https://github.com/MinKyeong031"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/MinKyeong031"/></a>
@@ -11,6 +13,9 @@
 <br>
 
 <p align="center">
+  <br> <br>
+  Ability
+  <br> <br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 

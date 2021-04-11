@@ -13,7 +13,6 @@
 <br>
 
 <p align="center">
-  <br> <br>
   Ability
   <br> <br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 

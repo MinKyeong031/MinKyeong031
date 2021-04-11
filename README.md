@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=F9F0E6&height=180&section=header&text=Welcome!&fontColor=4E5180&20render&fontSize=60&animation=fadeIn&fontAlignY=38)
 
-<br>
 <p align="center">
   Contact
   <br> <br>
@@ -8,8 +7,6 @@
   <a href="https://github.com/MinKyeong031"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/MinKyeong031"/></a>
   <a href="https://bit.ly/mkNotion"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://bit.ly/mkNotion"/></a>
 </p>
-
-<br>
 
 <p align="center">
   Ability
@@ -36,10 +33,6 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
 </p>
-
-
-
-<br>
 
 ![MinKyeong031's github stats](https://github-readme-stats.vercel.app/api?username=MinKyeong031&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinKyeong031&layout=compact&langs_count=81&hide_border=true)

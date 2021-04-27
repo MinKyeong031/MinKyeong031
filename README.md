@@ -5,6 +5,7 @@
   <br> <br>
   <a href="mailto:mingyg.kim@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mingyg.kim@gmail.com"/></a>
   <a href="https://github.com/MinKyeong031"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/MinKyeong031"/></a>
+  <a href="https://sj-coding.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff5722?style=flat-square&logo=Blogger&logoColor=white&link=https://sj-coding.tistory.com/"/></a>
 </p>
 
 <p align="center">

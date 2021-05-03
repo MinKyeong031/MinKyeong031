@@ -2,14 +2,14 @@
 
 <p align="center">
   Contact
-  <br> <br>
+  <br>
   <a href="mailto:mingyg.kim@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mingyg.kim@gmail.com"/></a>
   <a href="https://github.com/MinKyeong031"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/MinKyeong031"/></a>
 </p>
 
 <p align="center">
   Language & DB
-  <br> <br>
+  <br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp 
   <br> <br>
   Learning
-  <br> <br>
+  <br>
     <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C&Sharp&logoColor=white"/></a>&nbsp 

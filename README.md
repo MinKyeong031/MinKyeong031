@@ -32,6 +32,6 @@
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
 </p>
-
+<!--
 ![MinKyeong031's github stats](https://github-readme-stats.vercel.app/api?username=MinKyeong031&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinKyeong031&layout=compact&langs_count=81&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinKyeong031&layout=compact&langs_count=81&hide_border=true)-->

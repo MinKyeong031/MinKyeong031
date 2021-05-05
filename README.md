@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=584193&height=180&section=header&text=MinKyeong&fontColor=fffff7&20render&fontSize=60&animation=fadeIn&fontAlign=25&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4b3985&height=180&section=header&text=MinKyeong&fontColor=fffff7&20render&fontSize=60&animation=fadeIn&fontAlign=25&fontAlignY=38)
 
 <p align="center">
   <strong>📱Contact</strong>

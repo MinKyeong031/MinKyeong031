@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <strong>💡Skills</strong>
+  <strong>💡Language&DB</strong>
   <br><br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 

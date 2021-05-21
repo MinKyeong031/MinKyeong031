@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=MinKyeong&fontAlign=25&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=MinKyeong&fontAlign=30&fontAlignY=40&color=gradient)
 
 <p align="center">  
   <strong>📱Contact</strong>

@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4b3985&height=180&section=header&text=MinKyeong&fontColor=fffff7&20render&fontSize=60&animation=fadeIn&fontAlign=25&fontAlignY=38)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=MinKyeong&fontAlign=25&fontAlignY=40&color=gradient)
 
-<p align="center">
+<p align="center">  
   <strong>📱Contact</strong>
   <br><br>
   <a href="mailto:mingyg.kim@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mingyg.kim@gmail.com"/></a>
